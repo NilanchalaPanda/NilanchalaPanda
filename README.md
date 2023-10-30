@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project.**
 
-- 🌱 I’m currently learning **MERN🕸️ and DSA💻**
+- 🌱 I’m currently learning **MERN🕸️, Solidity and DSA💻**
 
 - 📫 How to reach me **nilanchalpanda2003@gmail.com**
 
