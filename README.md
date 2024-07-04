@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilanchalapanda" alt="nilanchalapanda" /></a> </p>
 
-- 🔭 I’m currently working on **CineVault**
+- 🔭 I’m currently working with **Sanity Esports**
 
-- 🌱 I’m currently learning **Solidity and DevOps.**
+- 🌱 I’m currently learning **AI/ML and DevOps.**
 
-- 👯 I’m looking to collaborate on **Web 3.0 projects**
+- 👯 I’m looking to collaborate on **fresh and innovative ideas**
 
-- 💬 Ask me about **MERN.**
+- 💬 Ask me about **MERN, NextJs, AI/ML.**
 
 - 📫 How to reach me **nilanchalpanda2003@gmail.com**
 
