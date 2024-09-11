@@ -8,7 +8,7 @@
    <a href="https://www.linkedin.com/in/nilanchal-panda/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Nilanchala Panda | LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;
-    <a href="https://leetcode.com/shlok_2003s/">
+    <a href="https://leetcode.com/">
       <img src="https://img.shields.io/badge/Leetcode-%23323330.svg?logo=leetcode&logoColor=orange" alt="Shlok Prajapati | Leetcode">
     </a>&nbsp;&nbsp;&nbsp;
     <a href="https://x.com/dev_nilanchal">
