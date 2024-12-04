@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **InvestED**
 
-- 🌱 I’m currently learning **SpringBoot, GrpahQL.**
+- 🌱 I’m currently learning **SpringBoot, GraphQL.**
 
 - 👯 I’m looking to collaborate on **fresh and innovative ideas**
 
