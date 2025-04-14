@@ -56,21 +56,3 @@ ________________________________________________________________________________
   &nbsp;&nbsp;
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilanchalapanda&theme=tokyonight" width="60%" />
 </p>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilanchalapanda&theme=dark&hide_border=false" alt="GitHub Streak">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilanchalapanda&show_icons=true&theme=dark&hide_border=false" alt="Top Languages">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-contributor-stats.vercel.app/api?username=nilanchalapanda&limit=5&theme=dark&hide_border=false&combine_all_yearly_contributions=true" alt="Contribution Stats">
-    </td>
-  </tr>
-</table>
-
-[![Nilanchala's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nilanchalapanda&bg_color=151515&color=f5f6fa&line=fa8b00&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
